@@ -1,9 +1,18 @@
-# 자바스크립트 기초 정리
-개발 도구 : Visual Studio Code  
-참고 서적 : 모던 자바스크립트 딥 다이브
+# 스프링 컨트롤러 사용 예시 정리
 
 ## 설명
-웹 개발시에 DOM 컨트롤을 위한 자바스크립트 기초 정리
-기존에 햇갈리던 내용이나 대충 이해하고 넘어간 내용 위주 정리
+스프링 컨트롤러에서 사용되는 어노테이션, 파라미터 사용방법 예시
 
-### 각 파일 상세 내용 설명
+### 챕터 
+1.request
+  1-1 RequestBodyJsonController
+  1-2 RequestBodyStringController
+  1-3 RequestHeaderController
+  1-4 RequestParamController
+2.requestmapping
+  2-1 MappingClassController
+  2-2 MappingController
+3.response
+  3-1 ResponseBodyController
+  3-2 ResponseViewController
+4.Log
